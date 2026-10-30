@@ -24,7 +24,7 @@ export const PROFILE = {
 
 export const SOCIALS = {
   github: "https://github.com/Ali-Ragab214",
-  linkedin: "https://www.linkedin.com/in/ali-ghonim-b139b8223/",
+  linkedin: "https://www.linkedin.com/in/ali-ragab-b139b8223/",
   email: `mailto:${PROFILE.email}`,
   phone: `tel:${PROFILE.phone}`,
 }
